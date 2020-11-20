@@ -18,7 +18,7 @@ const instagram = 'https://Instragram.com/kumpulan_foto_anime';
 const telegram ='-'; 
 const kapanbotaktif = 'SETIAP HARI'; 
 const youtube = '-';
-//const grupch1 = 'belum ada grup'; 
+const grupch1 = 'https://chat.whatsapp.com/INlrXulyC6i8kkLu2N7BlN'; 
 //const grupch2 = 'belum ada grup' ; 
 const
 {
