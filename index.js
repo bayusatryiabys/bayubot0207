@@ -13,7 +13,7 @@ const tambahan = require("./lib/tambahan.js")
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
-const BotName = '🤖*BOT_PUTRY'; 
+const BotName = '🤖*BOT_PUTRY🤖'; 
 const instagram = 'https://Instragram.com/kumpulan_foto_anime'; 
 const telegram ='-'; 
 const kapanbotaktif = 'SETIAP HARI'; 
